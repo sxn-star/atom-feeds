@@ -1,0 +1,19 @@
+# RSS/Atom feed subscriptions
+# ----------------------------
+# Add feeds here; then run Actions -> "Generate OPML" -> "Run workflow"
+# to rebuild feeds/subscriptions.opml.
+#
+# Fields:
+#   title       (required) Display name shown in your feed reader
+#   url         (required) Direct URL to the RSS or Atom feed
+#   site_url    (optional) Homepage of the site (written as htmlUrl in OPML)
+#   category    (optional) Folder name in OPML; omit to file under "Uncategorized"
+#   description (optional) Private note -- not written to the OPML output
+#
+# Example:
+#   - title: Quanta Magazine
+#     url: https://www.quantamagazine.org/feed/
+#     site_url: https://www.quantamagazine.org/
+#     category: Science
+
+feeds: []
