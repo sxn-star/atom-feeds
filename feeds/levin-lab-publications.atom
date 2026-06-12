@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <title>The Levin Lab – Peer-Reviewed Papers</title>
+  <subtitle>Academic publications from Michael Levin (Tufts University) on bioelectricity, morphogenesis, developmental biology, and collective intelligence.</subtitle>
+  <link href="https://www.drmichaellevin.org/publications/" rel="alternate" type="text/html"/>
+  <link href="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/atom-feeds/main/feeds/levin-lab-publications.atom"
+        rel="self" type="application/atom+xml"/>
+  <updated>2026-06-12T04:57:21Z</updated>
+  <id>https://www.drmichaellevin.org/publications/</id>
+  <rights>© The Levin Lab. All rights reserved.</rights>
+  <generator>atom-feeds scraper</generator>
+  <author>
+    <name>Michael Levin</name>
+    <uri>https://www.drmichaellevin.org/</uri>
+  </author>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/fd59dd03</id>
+    <title type="text">Machines all the way up and cognition all the way down: Updating the machine metaphor in biology</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Levin M</name></author>
+    <author><name>Watson R</name></author>
+    <link rel="alternate" type="text/html" href="https://www.sciencedirect.com/science/article/pii/S1084952126000029"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1016/j.semcdb.2026.103668"/>
+    <category term="Seminars in Cell &amp; Developmental Biology" label="Seminars in Cell &amp; Developmental Biology"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Levin M., Watson R. (2026). &lt;strong&gt;Machines all the way up and cognition all the way down: Updating the machine metaphor in biology&lt;/strong&gt;. &lt;em&gt;Seminars in Cell &amp; Developmental Biology&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1016/j.semcdb.2026.103668&quot;&gt;10.1016/j.semcdb.2026.103668&lt;/a&gt;. &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1084952126000029&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/7990b0cb</id>
+    <title type="text">Heuristically Adaptive Diffusion-Model Evolutionary Strategy</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Hartl B</name></author>
+    <author><name>Zhang Y</name></author>
+    <author><name>Hazan H</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202511537"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1002/advs.202511537"/>
+    <category term="Advanced Science" label="Advanced Science"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Hartl B., Zhang Y., Hazan H., Levin M. (2026). &lt;strong&gt;Heuristically Adaptive Diffusion-Model Evolutionary Strategy&lt;/strong&gt;. &lt;em&gt;Advanced Science&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1002/advs.202511537&quot;&gt;10.1002/advs.202511537&lt;/a&gt;. &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202511537&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/742cee27</id>
+    <title type="text">Engineered Living Systems With Self-Organizing Neural Networks: From Anatomy to Behavior and Gene Expression</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Fotowat H</name></author>
+    <author><name>O'Neill L</name></author>
+    <author><name>Pio-Lopez L</name></author>
+    <author><name>Sperry M.M</name></author>
+    <author><name>Erickson P</name></author>
+    <author><name>Lin T</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202508967"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1002/advs.202508967"/>
+    <category term="Advanced Science" label="Advanced Science"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Fotowat H., O'Neill L., Pio-Lopez L., Sperry M.M., Erickson P., Lin T., Levin M. (2026). &lt;strong&gt;Engineered Living Systems With Self-Organizing Neural Networks: From Anatomy to Behavior and Gene Expression&lt;/strong&gt;. &lt;em&gt;Advanced Science&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1002/advs.202508967&quot;&gt;10.1002/advs.202508967&lt;/a&gt;. &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202508967&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/0e0c2478</id>
+    <title type="text">Mind Everywhere: A Framework for Conceptualizing Goal-Directedness in Biology and Other Domains—Part Two</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Levin M</name></author>
+    <author><name>Resnik D.B</name></author>
+    <link rel="alternate" type="text/html" href="https://link.springer.com/article/10.1007/s13752-025-00524-5"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1007/s13752-025-00524-5"/>
+    <category term="Biological Theory" label="Biological Theory"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Levin M., Resnik D.B. (2026). &lt;strong&gt;Mind Everywhere: A Framework for Conceptualizing Goal-Directedness in Biology and Other Domains—Part Two&lt;/strong&gt;. &lt;em&gt;Biological Theory&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1007/s13752-025-00524-5&quot;&gt;10.1007/s13752-025-00524-5&lt;/a&gt;. &lt;a href=&quot;https://link.springer.com/article/10.1007/s13752-025-00524-5&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/26940344</id>
+    <title type="text">Mind Everywhere: A Framework for Conceptualizing Goal-Directedness in Biology and Other Domains—Part One</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Levin M</name></author>
+    <author><name>Resnik D.B</name></author>
+    <link rel="alternate" type="text/html" href="https://link.springer.com/article/10.1007/s13752-025-00523-6"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1007/s13752-025-00523-6"/>
+    <category term="Biological Theory" label="Biological Theory"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Levin M., Resnik D.B. (2026). &lt;strong&gt;Mind Everywhere: A Framework for Conceptualizing Goal-Directedness in Biology and Other Domains—Part One&lt;/strong&gt;. &lt;em&gt;Biological Theory&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1007/s13752-025-00523-6&quot;&gt;10.1007/s13752-025-00523-6&lt;/a&gt;. &lt;a href=&quot;https://link.springer.com/article/10.1007/s13752-025-00523-6&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/813fd5c6</id>
+    <title type="text">Top-down perspectives on cell membrane potential and protein transcription</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Cervera J</name></author>
+    <author><name>Levin M</name></author>
+    <author><name>Mafe S</name></author>
+    <link rel="alternate" type="text/html" href="https://www.nature.com/articles/s41598-025-31696-6"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1038/s41598-025-31696-6"/>
+    <category term="Scientific Reports" label="Scientific Reports"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Cervera J., Levin M., Mafe S. (2026). &lt;strong&gt;Top-down perspectives on cell membrane potential and protein transcription&lt;/strong&gt;. &lt;em&gt;Scientific Reports&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1038/s41598-025-31696-6&quot;&gt;10.1038/s41598-025-31696-6&lt;/a&gt;. &lt;a href=&quot;https://www.nature.com/articles/s41598-025-31696-6&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/8aa48c22</id>
+    <title type="text">Chess as a Model of Collective Intelligence: Analyzing a Distributed Form of Chess with Piece-wise Agency</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Kofman D</name></author>
+    <author><name>Campitelli G</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://rosa.uniroma1.it/rosa04/organisms/article/view/18904/17367"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.13133/2532-5876/18904"/>
+    <category term="Organisms: Journal of Biological Sciences" label="Organisms: Journal of Biological Sciences"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Kofman D., Campitelli G., Levin M. (2025). &lt;strong&gt;Chess as a Model of Collective Intelligence: Analyzing a Distributed Form of Chess with Piece-wise Agency&lt;/strong&gt;. &lt;em&gt;Organisms: Journal of Biological Sciences&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.13133/2532-5876/18904&quot;&gt;10.13133/2532-5876/18904&lt;/a&gt;. &lt;a href=&quot;https://rosa.uniroma1.it/rosa04/organisms/article/view/18904/17367&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/537ce779</id>
+    <title type="text">Bidirectional Communication Between Xenobot Cultures? Toward Collective Intelligence Across Diverse Biological Systems</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Parsa A</name></author>
+    <author><name>Pai V</name></author>
+    <author><name>Caspar L</name></author>
+    <author><name>Pigozzi F</name></author>
+    <author><name>Witkowski O</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://direct.mit.edu/isal/proceedings/isal2025/37/83/134059"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1162/ISAL.a.911"/>
+    <category term="ALIFE 2025: Ciphers of Life Conference" label="ALIFE 2025: Ciphers of Life Conference"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Parsa A., Pai V., Caspar L., Pigozzi F., Witkowski O., Levin M. (2025). &lt;strong&gt;Bidirectional Communication Between Xenobot Cultures? Toward Collective Intelligence Across Diverse Biological Systems&lt;/strong&gt;. &lt;em&gt;ALIFE 2025: Ciphers of Life Conference&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1162/ISAL.a.911&quot;&gt;10.1162/ISAL.a.911&lt;/a&gt;. &lt;a href=&quot;https://direct.mit.edu/isal/proceedings/isal2025/37/83/134059&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/43e96d47</id>
+    <title type="text">Evolution by natural induction II: further interactions with natural selection</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Watson R.A</name></author>
+    <author><name>Levin M</name></author>
+    <author><name>Lewens T</name></author>
+    <link rel="alternate" type="text/html" href="https://royalsocietypublishing.org/rsfs/article/15/6/20250036/366154/Evolution-by-natural-induction-II-further"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1098/rsfs.2025.0036"/>
+    <category term="Interface Focus" label="Interface Focus"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Watson R.A., Levin M., Lewens T. (2025). &lt;strong&gt;Evolution by natural induction II: further interactions with natural selection&lt;/strong&gt;. &lt;em&gt;Interface Focus&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1098/rsfs.2025.0036&quot;&gt;10.1098/rsfs.2025.0036&lt;/a&gt;. &lt;a href=&quot;https://royalsocietypublishing.org/rsfs/article/15/6/20250036/366154/Evolution-by-natural-induction-II-further&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/0e227ee7</id>
+    <title type="text">Evolution by natural induction</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Watson R.A</name></author>
+    <author><name>Levin M</name></author>
+    <author><name>Lewens T</name></author>
+    <link rel="alternate" type="text/html" href="https://royalsocietypublishing.org/rsfs/article/15/6/20250025/366156/Evolution-by-natural-induction"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1098/rsfs.2025.0025"/>
+    <category term="Interface Focus" label="Interface Focus"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Watson R.A., Levin M., Lewens T. (2025). &lt;strong&gt;Evolution by natural induction&lt;/strong&gt;. &lt;em&gt;Interface Focus&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1098/rsfs.2025.0025&quot;&gt;10.1098/rsfs.2025.0025&lt;/a&gt;. &lt;a href=&quot;https://royalsocietypublishing.org/rsfs/article/15/6/20250025/366156/Evolution-by-natural-induction&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/dc457d07</id>
+    <title type="text">Atavistic Genetic Expression Dissociation (AGED) During Aging: Meta-Phylostratigraphic Evidence of Cellular and Tissue-Level Phylogenetic Dissociation</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Pio-Lopez L</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://onlinelibrary.wiley.com/doi/10.1111/acel.70305"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1111/acel.70305"/>
+    <category term="Aging Cell" label="Aging Cell"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Pio-Lopez L., Levin M. (2025). &lt;strong&gt;Atavistic Genetic Expression Dissociation (AGED) During Aging: Meta-Phylostratigraphic Evidence of Cellular and Tissue-Level Phylogenetic Dissociation&lt;/strong&gt;. &lt;em&gt;Aging Cell&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1111/acel.70305&quot;&gt;10.1111/acel.70305&lt;/a&gt;. &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1111/acel.70305&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/291a39cf</id>
+    <title type="text">Neural cellular automata: Applications to biology and beyond classical AI</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Hartl B</name></author>
+    <author><name>Levin M</name></author>
+    <author><name>Pio-Lopez L</name></author>
+    <link rel="alternate" type="text/html" href="https://authors.elsevier.com/c/1mEoa5bD-sxfGT"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1016/j.plrev.2025.11.010"/>
+    <category term="Physics of Life Reviews" label="Physics of Life Reviews"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Hartl B., Levin M., Pio-Lopez L. (2025). &lt;strong&gt;Neural cellular automata: Applications to biology and beyond classical AI&lt;/strong&gt;. &lt;em&gt;Physics of Life Reviews&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1016/j.plrev.2025.11.010&quot;&gt;10.1016/j.plrev.2025.11.010&lt;/a&gt;. &lt;a href=&quot;https://authors.elsevier.com/c/1mEoa5bD-sxfGT&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/c2eec853</id>
+    <title type="text">Cognition all the way down 2.0: neuroscience beyond neurons in the diverse intelligence era</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Chis-Ciure R</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://link.springer.com/article/10.1007/s11229-025-05319-6"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1007/s11229-025-05319-6"/>
+    <category term="Synthese" label="Synthese"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Chis-Ciure R., Levin M. (2025). &lt;strong&gt;Cognition all the way down 2.0: neuroscience beyond neurons in the diverse intelligence era&lt;/strong&gt;. &lt;em&gt;Synthese&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1007/s11229-025-05319-6&quot;&gt;10.1007/s11229-025-05319-6&lt;/a&gt;. &lt;a href=&quot;https://link.springer.com/article/10.1007/s11229-025-05319-6&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/85217b95</id>
+    <title type="text">Field-mediated bioelectric basis of morphogenetic prepatterning</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Manicka S</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00464-3"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1016/j.xcrp.2025.102865"/>
+    <category term="Cell Reports Physical Science" label="Cell Reports Physical Science"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Manicka S., Levin M. (2025). &lt;strong&gt;Field-mediated bioelectric basis of morphogenetic prepatterning&lt;/strong&gt;. &lt;em&gt;Cell Reports Physical Science&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1016/j.xcrp.2025.102865&quot;&gt;10.1016/j.xcrp.2025.102865&lt;/a&gt;. &lt;a href=&quot;https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00464-3&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/3c6a852a</id>
+    <title type="text">Exploring the role of large language models in the scientific method: from hypothesis to discovery</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Zhang Y. et al</name></author>
+    <link rel="alternate" type="text/html" href="https://www.nature.com/articles/s44387-025-00019-5"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1038/s44387-025-00019-5"/>
+    <category term="npj Artificial Intelligence" label="npj Artificial Intelligence"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Zhang Y. et al. (2025). &lt;strong&gt;Exploring the role of large language models in the scientific method: from hypothesis to discovery&lt;/strong&gt;. &lt;em&gt;npj Artificial Intelligence&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1038/s44387-025-00019-5&quot;&gt;10.1038/s44387-025-00019-5&lt;/a&gt;. &lt;a href=&quot;https://www.nature.com/articles/s44387-025-00019-5&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/4b1e4894</id>
+    <title type="text">Associative conditioning in gene regulatory network models increases integrative causal emergence</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Pigozzi F</name></author>
+    <author><name>Goldstein A</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.nature.com/articles/s42003-025-08411-2"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1038/s42003-025-08411-2"/>
+    <category term="Communications Biology" label="Communications Biology"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Pigozzi F., Goldstein A., Levin M. (2025). &lt;strong&gt;Associative conditioning in gene regulatory network models increases integrative causal emergence&lt;/strong&gt;. &lt;em&gt;Communications Biology&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1038/s42003-025-08411-2&quot;&gt;10.1038/s42003-025-08411-2&lt;/a&gt;. &lt;a href=&quot;https://www.nature.com/articles/s42003-025-08411-2&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/e280386e</id>
+    <title type="text">Universal multilayer network embedding reveals a causal link between GABA neurotransmitter and cancer</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Pio-Lopez L</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-025-06158-5"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1186/s12859-025-06158-5"/>
+    <category term="BMC Bioinformatics" label="BMC Bioinformatics"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Pio-Lopez L., Levin M. (2025). &lt;strong&gt;Universal multilayer network embedding reveals a causal link between GABA neurotransmitter and cancer&lt;/strong&gt;. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1186/s12859-025-06158-5&quot;&gt;10.1186/s12859-025-06158-5&lt;/a&gt;. &lt;a href=&quot;https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-025-06158-5&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/5053d666</id>
+    <title type="text">What does evolution make? Learning in living lineages and machines</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Hartl B</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.cell.com/trends/genetics/fulltext/S0168-9525(25)00077-0"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1016/j.tig.2025.04.002"/>
+    <category term="Trends in Genetics" label="Trends in Genetics"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Hartl B., Levin M. (2025). &lt;strong&gt;What does evolution make? Learning in living lineages and machines&lt;/strong&gt;. &lt;em&gt;Trends in Genetics&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1016/j.tig.2025.04.002&quot;&gt;10.1016/j.tig.2025.04.002&lt;/a&gt;. &lt;a href=&quot;https://www.cell.com/trends/genetics/fulltext/S0168-9525(25)00077-0&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/0a05b827</id>
+    <title type="text">The Morphological, Behavioral, and Transcriptomic LifeCycle of Anthrobots</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Gumuskaya G</name></author>
+    <author><name>Davey N</name></author>
+    <author><name>Srivastava P</name></author>
+    <author><name>Bender A</name></author>
+    <author><name>Pio-Lopez L</name></author>
+    <author><name>Hazel D</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202409330"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1002/advs.202409330"/>
+    <category term="Advanced Science" label="Advanced Science"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Gumuskaya G., Davey N., Srivastava P., Bender A., Pio-Lopez L., Hazel D., Levin M. (2025). &lt;strong&gt;The Morphological, Behavioral, and Transcriptomic LifeCycle of Anthrobots&lt;/strong&gt;. &lt;em&gt;Advanced Science&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1002/advs.202409330&quot;&gt;10.1002/advs.202409330&lt;/a&gt;. &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202409330&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/f350c819</id>
+    <title type="text">Revealing non-trivial information structures in aneural biological tissues via functional connectivity</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Blackiston D</name></author>
+    <author><name>Dromiack H</name></author>
+    <author><name>Grasso C</name></author>
+    <author><name>Varley T.F</name></author>
+    <author><name>Moore D.G., et al</name></author>
+    <link rel="alternate" type="text/html" href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012149"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1371/journal.pcbi.1012149"/>
+    <category term="PLoS Computational Biology" label="PLoS Computational Biology"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Blackiston D., Dromiack H., Grasso C., Varley T.F., Moore D.G., et al. (2025). &lt;strong&gt;Revealing non-trivial information structures in aneural biological tissues via functional connectivity&lt;/strong&gt;. &lt;em&gt;PLoS Computational Biology&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1371/journal.pcbi.1012149&quot;&gt;10.1371/journal.pcbi.1012149&lt;/a&gt;. &lt;a href=&quot;https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012149&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/3cf41be8</id>
+    <title type="text">Diffusion Models are Evolutionary Algorithms</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Zhang Y</name></author>
+    <author><name>Hartl B</name></author>
+    <author><name>Hazan H</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://openreview.net/forum?id=xVefsBbG2O"/>
+    <category term="ICLR 2025 (peer-reviewed)" label="ICLR 2025 (peer-reviewed)"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Zhang Y., Hartl B., Hazan H., Levin M. (2025). &lt;strong&gt;Diffusion Models are Evolutionary Algorithms&lt;/strong&gt;. &lt;em&gt;ICLR 2025 (peer-reviewed)&lt;/em&gt;. &lt;a href=&quot;https://openreview.net/forum?id=xVefsBbG2O&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/b92fcee5</id>
+    <title type="text">Basal Xenobot transcriptomics reveals changes and novel control modality in cells freed from organismal influence</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Pai V.P</name></author>
+    <author><name>Pio-Lopez L</name></author>
+    <author><name>Sperry M.M</name></author>
+    <author><name>Erikson P</name></author>
+    <author><name>Tayyebi P</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.nature.com/articles/s42003-025-08086-9"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1038/s42003-025-08086-9"/>
+    <category term="Communications Biology" label="Communications Biology"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Pai V.P., Pio-Lopez L., Sperry M.M., Erikson P., Tayyebi P., Levin M. (2025). &lt;strong&gt;Basal Xenobot transcriptomics reveals changes and novel control modality in cells freed from organismal influence&lt;/strong&gt;. &lt;em&gt;Communications Biology&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1038/s42003-025-08086-9&quot;&gt;10.1038/s42003-025-08086-9&lt;/a&gt;. &lt;a href=&quot;https://www.nature.com/articles/s42003-025-08086-9&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/2f5f699b</id>
+    <title type="text">Artificial Intelligences: A Bridge Toward Diverse Intelligence and Humanity's Future</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202401034"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1002/aisy.202401034"/>
+    <category term="Advanced Intelligent Systems" label="Advanced Intelligent Systems"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Levin M. (2025). &lt;strong&gt;Artificial Intelligences: A Bridge Toward Diverse Intelligence and Humanity's Future&lt;/strong&gt;. &lt;em&gt;Advanced Intelligent Systems&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1002/aisy.202401034&quot;&gt;10.1002/aisy.202401034&lt;/a&gt;. &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202401034&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/7566a858</id>
+    <title type="text">Life, its origin, and its distribution: a perspective from the Conway-Kochen Theorem and the Free Energy Principle</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Fields C</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.tandfonline.com/doi/full/10.1080/19420889.2025.2466017"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1080/19420889.2025.2466017"/>
+    <category term="Communicative &amp; Integrative Biology" label="Communicative &amp; Integrative Biology"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Fields C., Levin M. (2025). &lt;strong&gt;Life, its origin, and its distribution: a perspective from the Conway-Kochen Theorem and the Free Energy Principle&lt;/strong&gt;. &lt;em&gt;Communicative &amp; Integrative Biology&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1080/19420889.2025.2466017&quot;&gt;10.1080/19420889.2025.2466017&lt;/a&gt;. &lt;a href=&quot;https://www.tandfonline.com/doi/full/10.1080/19420889.2025.2466017&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/df64a8f9</id>
+    <title type="text">Thoughts and thinkers: On the complementarity between objects and processes</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Fields C</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.sciencedirect.com/science/article/abs/pii/S1571064525000089"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1016/j.plrev.2025.01.008"/>
+    <category term="Physics of Life Reviews" label="Physics of Life Reviews"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Fields C., Levin M. (2025). &lt;strong&gt;Thoughts and thinkers: On the complementarity between objects and processes&lt;/strong&gt;. &lt;em&gt;Physics of Life Reviews&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1016/j.plrev.2025.01.008&quot;&gt;10.1016/j.plrev.2025.01.008&lt;/a&gt;. &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S1571064525000089&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/3e2971ce</id>
+    <title type="text">Bioelectricity is a universal multifaced signaling cue in living organisms</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Zhang G</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.molbiolcell.org/doi/epdf/10.1091/mbc.E23-08-0312"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1091/mbc.E23-08-0312"/>
+    <category term="Molecular Biology of the Cell" label="Molecular Biology of the Cell"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Zhang G., Levin M. (2025). &lt;strong&gt;Bioelectricity is a universal multifaced signaling cue in living organisms&lt;/strong&gt;. &lt;em&gt;Molecular Biology of the Cell&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1091/mbc.E23-08-0312&quot;&gt;10.1091/mbc.E23-08-0312&lt;/a&gt;. &lt;a href=&quot;https://www.molbiolcell.org/doi/epdf/10.1091/mbc.E23-08-0312&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2024:paper/f1635376</id>
+    <title type="text">Open problems in synthetic multicellularity</title>
+    <published>2024-01-01T00:00:00Z</published>
+    <updated>2024-01-01T00:00:00Z</updated>
+    <author><name>Solé R</name></author>
+    <author><name>Conde-Pueyo N</name></author>
+    <author><name>Pla-Mauri J</name></author>
+    <author><name>Garcia-Ojalvo J</name></author>
+    <author><name>Montserrat N</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.nature.com/articles/s41540-024-00477-8"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1038/s41540-024-00477-8"/>
+    <category term="npj Systems Biology and Applications" label="npj Systems Biology and Applications"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Solé R., Conde-Pueyo N., Pla-Mauri J., Garcia-Ojalvo J., Montserrat N., Levin M. (2024). &lt;strong&gt;Open problems in synthetic multicellularity&lt;/strong&gt;. &lt;em&gt;npj Systems Biology and Applications&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1038/s41540-024-00477-8&quot;&gt;10.1038/s41540-024-00477-8&lt;/a&gt;. &lt;a href=&quot;https://www.nature.com/articles/s41540-024-00477-8&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2024:paper/eddab5e5</id>
+    <title type="text">Discussions of machine versus living intelligence need more clarity</title>
+    <published>2024-01-01T00:00:00Z</published>
+    <updated>2024-01-01T00:00:00Z</updated>
+    <author><name>Rouleau N</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.nature.com/articles/s42256-024-00955-y"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.31219/osf.io/gz3km"/>
+    <category term="Nature Machine Intelligence" label="Nature Machine Intelligence"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Rouleau N., Levin M. (2024). &lt;strong&gt;Discussions of machine versus living intelligence need more clarity&lt;/strong&gt;. &lt;em&gt;Nature Machine Intelligence&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.31219/osf.io/gz3km&quot;&gt;10.31219/osf.io/gz3km&lt;/a&gt;. &lt;a href=&quot;https://www.nature.com/articles/s42256-024-00955-y&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2024:paper/6c7c15e5</id>
+    <title type="text">The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine</title>
+    <published>2024-01-01T00:00:00Z</published>
+    <updated>2024-01-01T00:00:00Z</updated>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://onlinelibrary.wiley.com/doi/10.1002/bies.202400196"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1002/bies.202400196"/>
+    <category term="BioEssays" label="BioEssays"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Levin M. (2024). &lt;strong&gt;The Multiscale Wisdom of the Body: Collective Intelligence as a Tractable Interface for Next-Generation Biomedicine&lt;/strong&gt;. &lt;em&gt;BioEssays&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1002/bies.202400196&quot;&gt;10.1002/bies.202400196&lt;/a&gt;. &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1002/bies.202400196&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2024:paper/17aea02f</id>
+    <title type="text">Natural Induction: Spontaneous Adaptive Organisation without Natural Selection</title>
+    <published>2024-01-01T00:00:00Z</published>
+    <updated>2024-01-01T00:00:00Z</updated>
+    <author><name>Buckley C.L</name></author>
+    <author><name>Lewens T</name></author>
+    <author><name>Levin M</name></author>
+    <author><name>Millidge B</name></author>
+    <author><name>Tschantz A</name></author>
+    <author><name>Watson R.A</name></author>
+    <link rel="alternate" type="text/html" href="https://www.mdpi.com/1099-4300/26/9/765"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.3390/e26090765"/>
+    <category term="Entropy" label="Entropy"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Buckley C.L., Lewens T., Levin M., Millidge B., Tschantz A., Watson R.A. (2024). &lt;strong&gt;Natural Induction: Spontaneous Adaptive Organisation without Natural Selection&lt;/strong&gt;. &lt;em&gt;Entropy&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.3390/e26090765&quot;&gt;10.3390/e26090765&lt;/a&gt;. &lt;a href=&quot;https://www.mdpi.com/1099-4300/26/9/765&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2024:paper/b9f74793</id>
+    <title type="text">Collective intelligence: A unifying concept for integrating biology across scales and substrates</title>
+    <published>2024-01-01T00:00:00Z</published>
+    <updated>2024-01-01T00:00:00Z</updated>
+    <author><name>McMillen P</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.nature.com/articles/s42003-024-06037-4"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1038/s42003-024-06037-4"/>
+    <category term="Communications Biology" label="Communications Biology"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">McMillen P., Levin M. (2024). &lt;strong&gt;Collective intelligence: A unifying concept for integrating biology across scales and substrates&lt;/strong&gt;. &lt;em&gt;Communications Biology&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1038/s42003-024-06037-4&quot;&gt;10.1038/s42003-024-06037-4&lt;/a&gt;. &lt;a href=&quot;https://www.nature.com/articles/s42003-024-06037-4&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2024:paper/1a0b7fb2</id>
+    <title type="text">Embryos assist morphogenesis of others through calcium and ATP signaling mechanisms in collective teratogen resistance</title>
+    <published>2024-01-01T00:00:00Z</published>
+    <updated>2024-01-01T00:00:00Z</updated>
+    <author><name>Tung A</name></author>
+    <author><name>Sperry M</name></author>
+    <author><name>Clawson W., et al</name></author>
+    <link rel="alternate" type="text/html" href="https://www.nature.com/articles/s41467-023-44522-2"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1038/s41467-023-44522-2"/>
+    <category term="Nature Communications" label="Nature Communications"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Tung A., Sperry M., Clawson W., et al. (2024). &lt;strong&gt;Embryos assist morphogenesis of others through calcium and ATP signaling mechanisms in collective teratogen resistance&lt;/strong&gt;. &lt;em&gt;Nature Communications&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1038/s41467-023-44522-2&quot;&gt;10.1038/s41467-023-44522-2&lt;/a&gt;. &lt;a href=&quot;https://www.nature.com/articles/s41467-023-44522-2&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2024:paper/8a724867</id>
+    <title type="text">AI-driven Automated Discovery Tools Reveal Diverse Behavioral Competencies of Biological Networks</title>
+    <published>2024-01-01T00:00:00Z</published>
+    <updated>2024-01-01T00:00:00Z</updated>
+    <author><name>Etcheverry M</name></author>
+    <author><name>Moulin-Frier C</name></author>
+    <author><name>Oudeyer P.-Y</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://elifesciences.org/articles/92683"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.7554/eLife.92683"/>
+    <category term="eLife" label="eLife"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Etcheverry M., Moulin-Frier C., Oudeyer P.-Y, Levin M. (2024). &lt;strong&gt;AI-driven Automated Discovery Tools Reveal Diverse Behavioral Competencies of Biological Networks&lt;/strong&gt;. &lt;em&gt;eLife&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.7554/eLife.92683&quot;&gt;10.7554/eLife.92683&lt;/a&gt;. &lt;a href=&quot;https://elifesciences.org/articles/92683&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2024:paper/c1414b03</id>
+    <title type="text">Snakes and ladders in the evolution of language</title>
+    <published>2024-01-01T00:00:00Z</published>
+    <updated>2024-01-01T00:00:00Z</updated>
+    <author><name>Fields C</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.sciencedirect.com/science/article/pii/S1571064524000411"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1016/j.plrev.2024.04.007"/>
+    <category term="Physics of Life Reviews" label="Physics of Life Reviews"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Fields C., Levin M. (2024). &lt;strong&gt;Snakes and ladders in the evolution of language&lt;/strong&gt;. &lt;em&gt;Physics of Life Reviews&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1016/j.plrev.2024.04.007&quot;&gt;10.1016/j.plrev.2024.04.007&lt;/a&gt;. &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1571064524000411&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2024:paper/e3512915</id>
+    <title type="text">Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue</title>
+    <published>2024-01-01T00:00:00Z</published>
+    <updated>2024-01-01T00:00:00Z</updated>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.mdpi.com/1099-4300/26/6/481"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.3390/e26060481"/>
+    <category term="Entropy" label="Entropy"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Levin M. (2024). &lt;strong&gt;Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue&lt;/strong&gt;. &lt;em&gt;Entropy&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.3390/e26060481&quot;&gt;10.3390/e26060481&lt;/a&gt;. &lt;a href=&quot;https://www.mdpi.com/1099-4300/26/6/481&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2024:paper/230e6574</id>
+    <title type="text">Evolutionary Implications of Self-Assembling Cybernetic Materials with Collective Problem-Solving Intelligence at Multiple Scales</title>
+    <published>2024-01-01T00:00:00Z</published>
+    <updated>2024-01-01T00:00:00Z</updated>
+    <author><name>Hartl B</name></author>
+    <author><name>Risi S</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.mdpi.com/1099-4300/26/7/532"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.3390/e26070532"/>
+    <category term="Entropy" label="Entropy"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Hartl B., Risi S., Levin M. (2024). &lt;strong&gt;Evolutionary Implications of Self-Assembling Cybernetic Materials with Collective Problem-Solving Intelligence at Multiple Scales&lt;/strong&gt;. &lt;em&gt;Entropy&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.3390/e26070532&quot;&gt;10.3390/e26070532&lt;/a&gt;. &lt;a href=&quot;https://www.mdpi.com/1099-4300/26/7/532&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2024:paper/16f051fa</id>
+    <title type="text">Aging as a loss of morphostatic information: a developmental bioelectricity perspective</title>
+    <published>2024-01-01T00:00:00Z</published>
+    <updated>2024-01-01T00:00:00Z</updated>
+    <author><name>Pio-Lopez L</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://pubmed.ncbi.nlm.nih.gov/38636560/"/>
+    <category term="Ageing Research Reviews" label="Ageing Research Reviews"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Pio-Lopez L., Levin M. (2024). &lt;strong&gt;Aging as a loss of morphostatic information: a developmental bioelectricity perspective&lt;/strong&gt;. &lt;em&gt;Ageing Research Reviews&lt;/em&gt;. &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/38636560/&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2024:paper/1530497d</id>
+    <title type="text">Principled Limitations on Self-Representation for Generic Physical Systems</title>
+    <published>2024-01-01T00:00:00Z</published>
+    <updated>2024-01-01T00:00:00Z</updated>
+    <author><name>Fields C</name></author>
+    <author><name>Glazebrook J.F</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.mdpi.com/1099-4300/26/3/194"/>
+    <category term="Entropy" label="Entropy"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Fields C., Glazebrook J.F., Levin M. (2024). &lt;strong&gt;Principled Limitations on Self-Representation for Generic Physical Systems&lt;/strong&gt;. &lt;em&gt;Entropy&lt;/em&gt;. &lt;a href=&quot;https://www.mdpi.com/1099-4300/26/3/194&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2024:paper/2e48140c</id>
+    <title type="text">Toward a nomenclature consensus for diverse intelligent systems: Call for collaboration</title>
+    <published>2024-01-01T00:00:00Z</published>
+    <updated>2024-01-01T00:00:00Z</updated>
+    <author><name>Kagan B.J. et al</name></author>
+    <link rel="alternate" type="text/html" href="https://www.sciencedirect.com/science/article/pii/S2666675824000961"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1016/j.xinn.2024.100658"/>
+    <category term="The Innovation" label="The Innovation"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Kagan B.J. et al. (2024). &lt;strong&gt;Toward a nomenclature consensus for diverse intelligent systems: Call for collaboration&lt;/strong&gt;. &lt;em&gt;The Innovation&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1016/j.xinn.2024.100658&quot;&gt;10.1016/j.xinn.2024.100658&lt;/a&gt;. &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S2666675824000961&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2024:paper/3d802bb8</id>
+    <title type="text">From reinforcement learning to agency: Frameworks for understanding basal cognition</title>
+    <published>2024-01-01T00:00:00Z</published>
+    <updated>2024-01-01T00:00:00Z</updated>
+    <author><name>Seifert G</name></author>
+    <author><name>Sealander A</name></author>
+    <author><name>Marzen S</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.sciencedirect.com/science/article/pii/S0303264723002824"/>
+    <category term="BioSystems" label="BioSystems"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Seifert G., Sealander A., Marzen S., Levin M. (2024). &lt;strong&gt;From reinforcement learning to agency: Frameworks for understanding basal cognition&lt;/strong&gt;. &lt;em&gt;BioSystems&lt;/em&gt;. &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0303264723002824&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2023:paper/1cac8b3d</id>
+    <title type="text">Motile Living Biobots Self-Construct from Adult Human Somatic Progenitor Seed Cells</title>
+    <published>2023-01-01T00:00:00Z</published>
+    <updated>2023-01-01T00:00:00Z</updated>
+    <author><name>Gumuskaya G</name></author>
+    <author><name>Srivastava P</name></author>
+    <author><name>Cooper B.G</name></author>
+    <author><name>Lesser H</name></author>
+    <author><name>Semegran B</name></author>
+    <author><name>Garnier S</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://onlinelibrary.wiley.com/doi/10.1002/advs.202303575"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1002/advs.202303575"/>
+    <category term="Advanced Science" label="Advanced Science"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Gumuskaya G., Srivastava P., Cooper B.G., Lesser H., Semegran B., Garnier S., Levin M. (2023). &lt;strong&gt;Motile Living Biobots Self-Construct from Adult Human Somatic Progenitor Seed Cells&lt;/strong&gt;. &lt;em&gt;Advanced Science&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1002/advs.202303575&quot;&gt;10.1002/advs.202303575&lt;/a&gt;. &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1002/advs.202303575&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2023:paper/8ac3655a</id>
+    <title type="text">Darwin's agential materials: evolutionary implications of multiscale competency in developmental biology</title>
+    <published>2023-01-01T00:00:00Z</published>
+    <updated>2023-01-01T00:00:00Z</updated>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://link.springer.com/article/10.1007/s00018-023-04790-z"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1007/s00018-023-04790-z"/>
+    <category term="Cellular and Molecular Life Sciences" label="Cellular and Molecular Life Sciences"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Levin M. (2023). &lt;strong&gt;Darwin's agential materials: evolutionary implications of multiscale competency in developmental biology&lt;/strong&gt;. &lt;em&gt;Cellular and Molecular Life Sciences&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1007/s00018-023-04790-z&quot;&gt;10.1007/s00018-023-04790-z&lt;/a&gt;. &lt;a href=&quot;https://link.springer.com/article/10.1007/s00018-023-04790-z&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2023:paper/01aabf3c</id>
+    <title type="text">Synthetic morphology with agential materials</title>
+    <published>2023-01-01T00:00:00Z</published>
+    <updated>2023-01-01T00:00:00Z</updated>
+    <author><name>Davies J</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.nature.com/articles/s44222-022-00001-9"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1038/s44222-022-00001-9"/>
+    <category term="Nature Reviews Bioengineering" label="Nature Reviews Bioengineering"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Davies J., Levin M. (2023). &lt;strong&gt;Synthetic morphology with agential materials&lt;/strong&gt;. &lt;em&gt;Nature Reviews Bioengineering&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1038/s44222-022-00001-9&quot;&gt;10.1038/s44222-022-00001-9&lt;/a&gt;. &lt;a href=&quot;https://www.nature.com/articles/s44222-022-00001-9&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2023:paper/1eae474f</id>
+    <title type="text">Future Medicine: from molecular pathways to the collective intelligence of the body</title>
+    <published>2023-01-01T00:00:00Z</published>
+    <updated>2023-01-01T00:00:00Z</updated>
+    <author><name>Lagasse E</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.cell.com/trends/molecular-medicine/fulltext/S1471-4914(23)00142-9"/>
+    <category term="Trends in Molecular Medicine" label="Trends in Molecular Medicine"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Lagasse E., Levin M. (2023). &lt;strong&gt;Future Medicine: from molecular pathways to the collective intelligence of the body&lt;/strong&gt;. &lt;em&gt;Trends in Molecular Medicine&lt;/em&gt;. &lt;a href=&quot;https://www.cell.com/trends/molecular-medicine/fulltext/S1471-4914(23)00142-9&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2023:paper/2529a417</id>
+    <title type="text">The collective intelligence of evolution and development</title>
+    <published>2023-01-01T00:00:00Z</published>
+    <updated>2023-01-01T00:00:00Z</updated>
+    <author><name>Watson R</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://journals.sagepub.com/doi/10.1177/26339137231168355"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1177/26339137231168355"/>
+    <category term="Collective Intelligence" label="Collective Intelligence"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Watson R., Levin M. (2023). &lt;strong&gt;The collective intelligence of evolution and development&lt;/strong&gt;. &lt;em&gt;Collective Intelligence&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1177/26339137231168355&quot;&gt;10.1177/26339137231168355&lt;/a&gt;. &lt;a href=&quot;https://journals.sagepub.com/doi/10.1177/26339137231168355&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2023:paper/1e607af7</id>
+    <title type="text">Bioelectric networks: the cognitive glue enabling evolutionary scaling from physiology to mind</title>
+    <published>2023-01-01T00:00:00Z</published>
+    <updated>2023-01-01T00:00:00Z</updated>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://link.springer.com/article/10.1007/s10071-023-01780-3"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1007/s10071-023-01780-3"/>
+    <category term="Animal Cognition" label="Animal Cognition"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Levin M. (2023). &lt;strong&gt;Bioelectric networks: the cognitive glue enabling evolutionary scaling from physiology to mind&lt;/strong&gt;. &lt;em&gt;Animal Cognition&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1007/s10071-023-01780-3&quot;&gt;10.1007/s10071-023-01780-3&lt;/a&gt;. &lt;a href=&quot;https://link.springer.com/article/10.1007/s10071-023-01780-3&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2023:paper/1c8a8a95</id>
+    <title type="text">There's Plenty of Room Right Here: Biological Systems as Evolved, Overloaded, Multi-Scale Machines</title>
+    <published>2023-01-01T00:00:00Z</published>
+    <updated>2023-01-01T00:00:00Z</updated>
+    <author><name>Bongard J</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.mdpi.com/2313-7673/8/1/110/htm"/>
+    <category term="Biomimetics" label="Biomimetics"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Bongard J., Levin M. (2023). &lt;strong&gt;There's Plenty of Room Right Here: Biological Systems as Evolved, Overloaded, Multi-Scale Machines&lt;/strong&gt;. &lt;em&gt;Biomimetics&lt;/em&gt;. &lt;a href=&quot;https://www.mdpi.com/2313-7673/8/1/110/htm&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2023:paper/37392db6</id>
+    <title type="text">Endless forms most beautiful 2.0: teleonomy and the bioengineering of chimaeric and synthetic organisms</title>
+    <published>2023-01-01T00:00:00Z</published>
+    <updated>2023-01-01T00:00:00Z</updated>
+    <author><name>Clawson W.P</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://academic.oup.com/biolinnean/article/139/4/457/6643577"/>
+    <category term="Biological Journal of the Linnean Society" label="Biological Journal of the Linnean Society"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Clawson W.P., Levin M. (2023). &lt;strong&gt;Endless forms most beautiful 2.0: teleonomy and the bioengineering of chimaeric and synthetic organisms&lt;/strong&gt;. &lt;em&gt;Biological Journal of the Linnean Society&lt;/em&gt;. &lt;a href=&quot;https://academic.oup.com/biolinnean/article/139/4/457/6643577&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2023:paper/defc06d7</id>
+    <title type="text">Bioelectricity of non-excitable cells and multicellular pattern memories: Biophysical modeling</title>
+    <published>2023-01-01T00:00:00Z</published>
+    <updated>2023-01-01T00:00:00Z</updated>
+    <author><name>Cervera J</name></author>
+    <author><name>Levin M</name></author>
+    <author><name>Mafé S</name></author>
+    <link rel="alternate" type="text/html" href="https://www.sciencedirect.com/science/article/pii/S0370157322004069"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1016/j.physrep.2022.12.003"/>
+    <category term="Physics Reports" label="Physics Reports"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Cervera J., Levin M., Mafé S. (2023). &lt;strong&gt;Bioelectricity of non-excitable cells and multicellular pattern memories: Biophysical modeling&lt;/strong&gt;. &lt;em&gt;Physics Reports&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1016/j.physrep.2022.12.003&quot;&gt;10.1016/j.physrep.2022.12.003&lt;/a&gt;. &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0370157322004069&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2023:paper/17ccf0f4</id>
+    <title type="text">Cellular Signaling Pathways as Plastic, Proto-cognitive Systems: Implications for Biomedicine</title>
+    <published>2023-01-01T00:00:00Z</published>
+    <updated>2023-01-01T00:00:00Z</updated>
+    <author><name>Mathews J</name></author>
+    <author><name>Chang J</name></author>
+    <author><name>Devlin L</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.cell.com/patterns/fulltext/S2666-3899(23)00077-6"/>
+    <category term="Patterns" label="Patterns"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Mathews J., Chang J., Devlin L., Levin M. (2023). &lt;strong&gt;Cellular Signaling Pathways as Plastic, Proto-cognitive Systems: Implications for Biomedicine&lt;/strong&gt;. &lt;em&gt;Patterns&lt;/em&gt;. &lt;a href=&quot;https://www.cell.com/patterns/fulltext/S2666-3899(23)00077-6&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2023:paper/1f6212a2</id>
+    <title type="text">Biological Robots: Perspectives on an Emerging Interdisciplinary Field</title>
+    <published>2023-01-01T00:00:00Z</published>
+    <updated>2023-01-01T00:00:00Z</updated>
+    <author><name>Blackiston D</name></author>
+    <author><name>Kriegman S</name></author>
+    <author><name>Bongard J</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.liebertpub.com/doi/full/10.1089/soro.2022.0142"/>
+    <category term="Soft Robotics" label="Soft Robotics"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Blackiston D., Kriegman S., Bongard J., Levin M. (2023). &lt;strong&gt;Biological Robots: Perspectives on an Emerging Interdisciplinary Field&lt;/strong&gt;. &lt;em&gt;Soft Robotics&lt;/em&gt;. &lt;a href=&quot;https://www.liebertpub.com/doi/full/10.1089/soro.2022.0142&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2022:paper/423f198f</id>
+    <title type="text">Biological underpinnings for lifelong learning machines</title>
+    <published>2022-01-01T00:00:00Z</published>
+    <updated>2022-01-01T00:00:00Z</updated>
+    <author><name>Kudithipudi D. et al</name></author>
+    <link rel="alternate" type="text/html" href="https://www.nature.com/articles/s42256-022-00452-0"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1038/s42256-022-00452-0"/>
+    <category term="Nature Machine Intelligence" label="Nature Machine Intelligence"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Kudithipudi D. et al. (2022). &lt;strong&gt;Biological underpinnings for lifelong learning machines&lt;/strong&gt;. &lt;em&gt;Nature Machine Intelligence&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1038/s42256-022-00452-0&quot;&gt;10.1038/s42256-022-00452-0&lt;/a&gt;. &lt;a href=&quot;https://www.nature.com/articles/s42256-022-00452-0&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2022:paper/6f73ae55</id>
+    <title type="text">Technological Approach to Mind Everywhere: an experimentally-grounded framework for understanding diverse bodies and minds</title>
+    <published>2022-01-01T00:00:00Z</published>
+    <updated>2022-01-01T00:00:00Z</updated>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full"/>
+    <category term="Frontiers in Systems Neuroscience" label="Frontiers in Systems Neuroscience"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Levin M. (2022). &lt;strong&gt;Technological Approach to Mind Everywhere: an experimentally-grounded framework for understanding diverse bodies and minds&lt;/strong&gt;. &lt;em&gt;Frontiers in Systems Neuroscience&lt;/em&gt;. &lt;a href=&quot;https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2022:paper/3fab6959</id>
+    <title type="text">Acute multidrug delivery via a wearable bioreactor facilitates long-term limb regeneration and functional recovery in adult Xenopus laevis</title>
+    <published>2022-01-01T00:00:00Z</published>
+    <updated>2022-01-01T00:00:00Z</updated>
+    <author><name>Murugan N.J</name></author>
+    <author><name>Vigran H.J</name></author>
+    <author><name>Miller K., et al</name></author>
+    <link rel="alternate" type="text/html" href="https://www.science.org/doi/10.1126/sciadv.abj2164"/>
+    <category term="Science Advances" label="Science Advances"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Murugan N.J., Vigran H.J., Miller K., et al. (2022). &lt;strong&gt;Acute multidrug delivery via a wearable bioreactor facilitates long-term limb regeneration and functional recovery in adult Xenopus laevis&lt;/strong&gt;. &lt;em&gt;Science Advances&lt;/em&gt;. &lt;a href=&quot;https://www.science.org/doi/10.1126/sciadv.abj2164&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2022:paper/df4dbb61</id>
+    <title type="text">Design for an Individual: Connectionist approaches to the evolutionary transitions in individuality</title>
+    <published>2022-01-01T00:00:00Z</published>
+    <updated>2022-01-01T00:00:00Z</updated>
+    <author><name>Watson R.A</name></author>
+    <author><name>Levin M</name></author>
+    <author><name>Buckley C.L</name></author>
+    <link rel="alternate" type="text/html" href="https://www.frontiersin.org/articles/10.3389/fevo.2022.823588/full"/>
+    <category term="Frontiers in Ecology and Evolution" label="Frontiers in Ecology and Evolution"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Watson R.A., Levin M., Buckley C.L. (2022). &lt;strong&gt;Design for an Individual: Connectionist approaches to the evolutionary transitions in individuality&lt;/strong&gt;. &lt;em&gt;Frontiers in Ecology and Evolution&lt;/em&gt;. &lt;a href=&quot;https://www.frontiersin.org/articles/10.3389/fevo.2022.823588/full&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2022:paper/6285a265</id>
+    <title type="text">A free energy principle for generic quantum systems</title>
+    <published>2022-01-01T00:00:00Z</published>
+    <updated>2022-01-01T00:00:00Z</updated>
+    <author><name>Fields C</name></author>
+    <author><name>Friston K</name></author>
+    <author><name>Glazebrook J.F</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.sciencedirect.com/science/article/pii/S0079610722000517"/>
+    <category term="Progress in Biophysics and Molecular Biology" label="Progress in Biophysics and Molecular Biology"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Fields C., Friston K., Glazebrook J.F., Levin M. (2022). &lt;strong&gt;A free energy principle for generic quantum systems&lt;/strong&gt;. &lt;em&gt;Progress in Biophysics and Molecular Biology&lt;/em&gt;. &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0079610722000517&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2022:paper/7a25afd2</id>
+    <title type="text">Potassium channel-driven bioelectric signalling regulates metastasis in triple-negative breast cancer</title>
+    <published>2022-01-01T00:00:00Z</published>
+    <updated>2022-01-01T00:00:00Z</updated>
+    <author><name>Payne S.L</name></author>
+    <author><name>Ram P., et al</name></author>
+    <link rel="alternate" type="text/html" href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00561-2/fulltext"/>
+    <category term="EBioMedicine" label="EBioMedicine"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Payne S.L., Ram P., et al. (2022). &lt;strong&gt;Potassium channel-driven bioelectric signalling regulates metastasis in triple-negative breast cancer&lt;/strong&gt;. &lt;em&gt;EBioMedicine&lt;/em&gt;. &lt;a href=&quot;https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00561-2/fulltext&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2021:paper/ec792674</id>
+    <title type="text">Bioelectric Signaling: Reprogrammable Circuits Underlying Embryogenesis, Regeneration, and Cancer</title>
+    <published>2021-01-01T00:00:00Z</published>
+    <updated>2021-01-01T00:00:00Z</updated>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://pubmed.ncbi.nlm.nih.gov/33826908"/>
+    <category term="Cell" label="Cell"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Levin M. (2021). &lt;strong&gt;Bioelectric Signaling: Reprogrammable Circuits Underlying Embryogenesis, Regeneration, and Cancer&lt;/strong&gt;. &lt;em&gt;Cell&lt;/em&gt;. &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/33826908&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2021:paper/2fc6221b</id>
+    <title type="text">Kinematic self-replication in reconfigurable organisms</title>
+    <published>2021-01-01T00:00:00Z</published>
+    <updated>2021-01-01T00:00:00Z</updated>
+    <author><name>Kriegman S</name></author>
+    <author><name>Blackiston D</name></author>
+    <author><name>Levin M</name></author>
+    <author><name>Bongard J</name></author>
+    <link rel="alternate" type="text/html" href="https://www.pnas.org/content/118/49/e2112672118"/>
+    <category term="Proceedings of the National Academy of Science" label="Proceedings of the National Academy of Science"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Kriegman S., Blackiston D., Levin M., Bongard J. (2021). &lt;strong&gt;Kinematic self-replication in reconfigurable organisms&lt;/strong&gt;. &lt;em&gt;Proceedings of the National Academy of Science&lt;/em&gt;. &lt;a href=&quot;https://www.pnas.org/content/118/49/e2112672118&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2021:paper/404f51c7</id>
+    <title type="text">A cellular platform for the development of synthetic living machines</title>
+    <published>2021-01-01T00:00:00Z</published>
+    <updated>2021-01-01T00:00:00Z</updated>
+    <author><name>Blackiston D</name></author>
+    <author><name>Lederer E</name></author>
+    <author><name>Kriegman S</name></author>
+    <author><name>Garnier S</name></author>
+    <author><name>Bongard J</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://robotics.sciencemag.org/content/6/52/eabf1571"/>
+    <category term="Science Robotics" label="Science Robotics"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Blackiston D., Lederer E., Kriegman S., Garnier S., Bongard J., Levin M. (2021). &lt;strong&gt;A cellular platform for the development of synthetic living machines&lt;/strong&gt;. &lt;em&gt;Science Robotics&lt;/em&gt;. &lt;a href=&quot;https://robotics.sciencemag.org/content/6/52/eabf1571&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2021:paper/a11f9d67</id>
+    <title type="text">Living things are not (20th Century) machines: updating mechanism metaphors in light of the modern science of machine behavior</title>
+    <published>2021-01-01T00:00:00Z</published>
+    <updated>2021-01-01T00:00:00Z</updated>
+    <author><name>Bongard J</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.frontiersin.org/articles/10.3389/fevo.2021.650726/full"/>
+    <category term="Frontiers in Ecology and Evolution" label="Frontiers in Ecology and Evolution"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Bongard J., Levin M. (2021). &lt;strong&gt;Living things are not (20th Century) machines: updating mechanism metaphors in light of the modern science of machine behavior&lt;/strong&gt;. &lt;em&gt;Frontiers in Ecology and Evolution&lt;/em&gt;. &lt;a href=&quot;https://www.frontiersin.org/articles/10.3389/fevo.2021.650726/full&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2021:paper/77634303</id>
+    <title type="text">Minimal physicalism as a scale-free substrate for cognition and consciousness</title>
+    <published>2021-01-01T00:00:00Z</published>
+    <updated>2021-01-01T00:00:00Z</updated>
+    <author><name>Fields C</name></author>
+    <author><name>Glazebrook J.F</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://academic.oup.com/nc/article/2021/2/niab013/6334115"/>
+    <category term="Neuroscience of Consciousness" label="Neuroscience of Consciousness"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Fields C., Glazebrook J.F., Levin M. (2021). &lt;strong&gt;Minimal physicalism as a scale-free substrate for cognition and consciousness&lt;/strong&gt;. &lt;em&gt;Neuroscience of Consciousness&lt;/em&gt;. &lt;a href=&quot;https://academic.oup.com/nc/article/2021/2/niab013/6334115&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2021:paper/5156b53c</id>
+    <title type="text">Gene Regulatory Networks Exhibit Several Kinds of Memory: Quantification of Memory in Biological and Random Transcriptional Networks</title>
+    <published>2021-01-01T00:00:00Z</published>
+    <updated>2021-01-01T00:00:00Z</updated>
+    <author><name>Biswas S</name></author>
+    <author><name>Manicka S</name></author>
+    <author><name>Hoel E</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.cell.com/iscience/fulltext/S2589-0042(21)00099-7"/>
+    <category term="iScience" label="iScience"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Biswas S., Manicka S., Hoel E., Levin M. (2021). &lt;strong&gt;Gene Regulatory Networks Exhibit Several Kinds of Memory: Quantification of Memory in Biological and Random Transcriptional Networks&lt;/strong&gt;. &lt;em&gt;iScience&lt;/em&gt;. &lt;a href=&quot;https://www.cell.com/iscience/fulltext/S2589-0042(21)00099-7&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2020:paper/50eceefa</id>
+    <title type="text">Morphogenesis as Bayesian Inference: a Variational Approach to Pattern Formation and Control in Complex Biological Systems</title>
+    <published>2020-01-01T00:00:00Z</published>
+    <updated>2020-01-01T00:00:00Z</updated>
+    <author><name>Kuchling F</name></author>
+    <author><name>Friston K</name></author>
+    <author><name>Georgiev G</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.sciencedirect.com/science/article/pii/S1571064519300909"/>
+    <category term="Physics of Life Reviews" label="Physics of Life Reviews"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Kuchling F., Friston K., Georgiev G., Levin M. (2020). &lt;strong&gt;Morphogenesis as Bayesian Inference: a Variational Approach to Pattern Formation and Control in Complex Biological Systems&lt;/strong&gt;. &lt;em&gt;Physics of Life Reviews&lt;/em&gt;. &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1571064519300909&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2020:paper/028465d7</id>
+    <title type="text">A scalable pipeline for designing reconfigurable organisms</title>
+    <published>2020-01-01T00:00:00Z</published>
+    <updated>2020-01-01T00:00:00Z</updated>
+    <author><name>Kriegman S</name></author>
+    <author><name>Blackiston D</name></author>
+    <author><name>Levin M</name></author>
+    <author><name>Bongard J</name></author>
+    <link rel="alternate" type="text/html" href="https://www.pnas.org/content/early/2020/01/07/1910837117"/>
+    <category term="Proceedings of the National Academy of Sciences" label="Proceedings of the National Academy of Sciences"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Kriegman S., Blackiston D., Levin M., Bongard J. (2020). &lt;strong&gt;A scalable pipeline for designing reconfigurable organisms&lt;/strong&gt;. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;. &lt;a href=&quot;https://www.pnas.org/content/early/2020/01/07/1910837117&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2020:paper/50e08001</id>
+    <title type="text">Growing Neural Cellular Automata: Differentiable Model of Morphogenesis</title>
+    <published>2020-01-01T00:00:00Z</published>
+    <updated>2020-01-01T00:00:00Z</updated>
+    <author><name>Mordvintsev A</name></author>
+    <author><name>Randazzo E</name></author>
+    <author><name>Niklasson E</name></author>
+    <author><name>Levin M</name></author>
+    <link rel="alternate" type="text/html" href="https://distill.pub/2020/growing-ca"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.23915/distill.00027.002"/>
+    <category term="Distill" label="Distill"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Mordvintsev A., Randazzo E., Niklasson E., Levin M. (2020). &lt;strong&gt;Growing Neural Cellular Automata: Differentiable Model of Morphogenesis&lt;/strong&gt;. &lt;em&gt;Distill&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.23915/distill.00027.002&quot;&gt;10.23915/distill.00027.002&lt;/a&gt;. &lt;a href=&quot;https://distill.pub/2020/growing-ca&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2020:paper/683e8ba2</id>
+    <title type="text">An in vivo brain-bacteria interface: the developing brain as a key regulator of innate immunity</title>
+    <published>2020-01-01T00:00:00Z</published>
+    <updated>2020-01-01T00:00:00Z</updated>
+    <author><name>Herrera-Rincon C</name></author>
+    <author><name>Paré J-F</name></author>
+    <author><name>Martyniuk C.J., et al</name></author>
+    <link rel="alternate" type="text/html" href="https://www.nature.com/articles/s41536-020-0087-2"/>
+    <category term="npj Regenerative Medicine" label="npj Regenerative Medicine"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Herrera-Rincon C., Paré J-F., Martyniuk C.J., et al. (2020). &lt;strong&gt;An in vivo brain-bacteria interface: the developing brain as a key regulator of innate immunity&lt;/strong&gt;. &lt;em&gt;npj Regenerative Medicine&lt;/em&gt;. &lt;a href=&quot;https://www.nature.com/articles/s41536-020-0087-2&quot;&gt;Access paper →&lt;/a&gt;</summary>
+  </entry>
+
+</feed>
