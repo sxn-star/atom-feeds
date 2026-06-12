@@ -16,4 +16,65 @@
 #     site_url: https://www.quantamagazine.org/
 #     category: Science
 
-feeds: []
+feeds:
+
+  # ── Security ────────────────────────────────────────────────────────────────
+
+  - title: Threatpost
+    url: https://threatpost.com/feed/
+    site_url: https://threatpost.com/
+    category: Security
+
+  - title: Recorded Future Blog
+    url: https://www.recordedfuture.com/feed
+    site_url: https://www.recordedfuture.com/blog
+    category: Security
+
+  - title: Schneier on Security
+    url: https://www.schneier.com/feed/
+    site_url: https://www.schneier.com/
+    category: Security
+
+  - title: Krebs on Security
+    url: https://krebsonsecurity.com/feed/
+    site_url: https://krebsonsecurity.com/
+    category: Security
+
+  - title: The Hacker News
+    url: https://feeds.feedburner.com/TheHackersNews
+    site_url: https://thehackernews.com/
+    category: Security
+
+  - title: Bleeping Computer
+    url: https://www.bleepingcomputer.com/feed/
+    site_url: https://www.bleepingcomputer.com/
+    category: Security
+
+  # ── Science ─────────────────────────────────────────────────────────────────
+
+  - title: Michael Levin (Substack)
+    url: https://mlevin77.substack.com/feed
+    site_url: https://mlevin77.substack.com/
+    category: Science
+
+  - title: Rupert Sheldrake (Substack)
+    url: https://rupertsheldrake.substack.com/feed
+    site_url: https://rupertsheldrake.substack.com/
+    category: Science
+
+  - title: Quantum Zeitgeist
+    url: https://quantumzeitgeist.substack.com/feed
+    site_url: https://quantumzeitgeist.substack.com/
+    category: Science
+
+  # ── Technology & AI ─────────────────────────────────────────────────────────
+
+  - title: The Softtek Blog
+    url: https://blog.softtek.com/rss.xml
+    site_url: https://blog.softtek.com/
+    category: Technology
+
+  - title: The Rundown AI
+    url: https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml
+    site_url: https://www.therundown.ai/
+    category: Technology
