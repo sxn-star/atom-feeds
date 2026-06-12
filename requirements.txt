@@ -2,3 +2,4 @@ beautifulsoup4>=4.12
 lxml>=5.0
 playwright>=1.44
 requests>=2.31       # handy for scrapers that don't need a browser
+pytest>=8.0
