@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <title>Bernardo Kastrup – Academic Papers</title>
+  <subtitle>Peer-reviewed academic papers by Bernardo Kastrup on philosophy of mind, consciousness, analytic idealism, and the metaphysics of nature.</subtitle>
+  <link href="https://www.bernardokastrup.com/p/papers.html" rel="alternate" type="text/html"/>
+  <link href="https://raw.githubusercontent.com/sxn-star/atom-feeds/main/feeds/kastrup-papers.atom"
+        rel="self" type="application/atom+xml"/>
+  <updated>2026-06-12T06:34:18Z</updated>
+  <id>https://www.bernardokastrup.com/p/papers.html</id>
+  <rights>© Bernardo Kastrup. All rights reserved.</rights>
+  <generator>atom-feeds scraper</generator>
+  <author>
+    <name>Bernardo Kastrup</name>
+    <uri>https://www.bernardokastrup.com/</uri>
+  </author>
+
+</feed>
