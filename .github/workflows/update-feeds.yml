@@ -30,7 +30,12 @@ jobs:
         run: python -m playwright install --with-deps chromium
 
       - name: Generate all feeds
+        id: generate
         run: python generate_all.py
+        # Allow the step to fail so the commit step always runs.
+        # Partial successes (some scrapers ok, some failed) still write their
+        # .atom and .sha256 files -- we want those committed before re-raising.
+        continue-on-error: true
 
       - name: Commit updated feeds (if changed)
         run: |
@@ -39,9 +44,15 @@ jobs:
           git add feeds/
           # Only commit if something actually changed
           if git diff --staged --quiet; then
-            echo "No feed changes — nothing to commit."
+            echo "No feed changes -- nothing to commit."
           else
             TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
             git commit -m "chore: update feeds ${TIMESTAMP}"
             git push
           fi
+
+      - name: Fail if any scraper had errors
+        if: steps.generate.outcome == 'failure'
+        run: |
+          echo "::error::One or more scrapers failed -- see the 'Generate all feeds' step above for details."
+          exit 1

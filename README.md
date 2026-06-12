@@ -10,10 +10,63 @@ Feeds are regenerated **daily at 06:00 UTC** via GitHub Actions and committed ba
 
 | Feed | Source | Raw URL |
 |------|--------|---------|
+| Bernardo Kastrup – Academic Papers | [bernardokastrup.com/p/papers](https://www.bernardokastrup.com/p/papers.html) | [kastrup-papers.atom](feeds/kastrup-papers.atom) |
 | Levin Lab – Peer-Reviewed Papers | [drmichaellevin.org/publications](https://www.drmichaellevin.org/publications/) | [levin-lab-publications.atom](feeds/levin-lab-publications.atom) |
 
 > **Subscribe URL pattern:**
 > `https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/atom-feeds/main/feeds/FEED_SLUG.atom`
+
+---
+
+## Subscribing to feeds you find yourself
+
+If you come across an RSS or Atom feed URL you want to track alongside the scraped feeds, add it to **`subscriptions.yml`** at the root of the repo — no code required.
+
+### 1 — Edit `subscriptions.yml`
+
+Open the file and add an entry under the `feeds:` list:
+
+```yaml
+feeds:
+  - title: Quanta Magazine
+    url: https://www.quantamagazine.org/feed/
+    site_url: https://www.quantamagazine.org/
+    category: Science
+
+  - title: Gwern.net
+    url: https://www.gwern.net/feed
+    category: Research
+
+  - title: Some Paywalled Blog
+    url: https://example.com/feed.xml
+    # category omitted → filed under "Uncategorized"
+```
+
+| Field | Required | Notes |
+|-------|----------|-------|
+| `url` | **yes** | The direct RSS or Atom feed URL |
+| `title` | **yes** | Display name in your feed reader |
+| `site_url` | no | Homepage of the site (written as `htmlUrl` in OPML) |
+| `category` | no | Folder name in OPML; defaults to `Uncategorized` |
+| `description` | no | Private note — not written to the OPML output |
+
+You can edit the file directly on GitHub (click the pencil icon) or by cloning the repo locally. Commit the change to `main`.
+
+### 2 — Regenerate the OPML
+
+Go to **Actions → Generate OPML → Run workflow** and click **Run workflow**. The action will rebuild `feeds/subscriptions.opml` and commit it automatically.
+
+### 3 — Import or subscribe
+
+**Option A — Import once:** Download `feeds/subscriptions.opml` and import it into your feed reader (File → Import OPML, or similar). Repeat after adding more feeds.
+
+**Option B — Subscribe to the OPML URL directly** (readers that support live OPML, e.g. Inoreader, FreshRSS):
+
+```
+https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/atom-feeds/main/feeds/subscriptions.opml
+```
+
+The OPML contains both the scraped feeds from this repo and every URL you've added to `subscriptions.yml`.
 
 ---
 
