@@ -7,7 +7,7 @@
   <link href="https://www.drmichaellevin.org/publications/" rel="alternate" type="text/html"/>
   <link href="https://raw.githubusercontent.com/sxn-star/atom-feeds/main/feeds/levin-lab-publications.atom"
         rel="self" type="application/atom+xml"/>
-  <updated>2026-07-05T08:52:33Z</updated>
+  <updated>2026-07-07T09:40:51Z</updated>
   <id>https://www.drmichaellevin.org/publications/</id>
   <rights>(c) The Levin Lab. All rights reserved.</rights>
   <generator>atom-feeds scraper</generator>
@@ -15,6 +15,19 @@
     <name>Michael Levin</name>
     <uri>https://www.drmichaellevin.org/</uri>
   </author>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/0f50ee4f</id>
+    <title type="text">Bioelectrical Interfaces Beyond Excitable Cells: Cancer, Aging, and Gene Expression Modulation</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Cadinu, P., Burgess, M. K., Franco Jones, C., Iarossi, M., Schröter, M., Nakatsuka, N, Djamgoz, M. B. A., Gonçalves, G., Abayzeed, S., Sanjuán-Alberte, P., Mendes, P. M., Rawson, F. J., Nair, M., Levin, M., Moreddu, R</name></author>
+    <link rel="alternate" type="text/html" href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/admi.202500999"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1002/admi.202500999"/>
+    <category term="Advanced Materials Interfaces" label="Advanced Materials Interfaces"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Cadinu, P., Burgess, M. K., Franco Jones, C., Iarossi, M., Schröter, M., Nakatsuka, N, Djamgoz, M. B. A., Gonçalves, G., Abayzeed, S., Sanjuán-Alberte, P., Mendes, P. M., Rawson, F. J., Nair, M., Levin, M., Moreddu, R (2026). &lt;strong&gt;Bioelectrical Interfaces Beyond Excitable Cells: Cancer, Aging, and Gene Expression Modulation&lt;/strong&gt;. &lt;em&gt;Advanced Materials Interfaces&lt;/em&gt;, , 13(10). DOI: &lt;a href=&quot;https://doi.org/10.1002/admi.202500999&quot;&gt;10.1002/admi.202500999&lt;/a&gt;. &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/admi.202500999&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
 
   <entry>
     <id>tag:atom-feeds,2026:paper/fd59dd03</id>
@@ -82,6 +95,19 @@
   </entry>
 
   <entry>
+    <id>tag:atom-feeds,2026:paper/936a57ce</id>
+    <title type="text">Neural cellular automata: Applications to biology and beyond classical AI</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Hartl, B., Levin, M., Pio-Lopez, L</name></author>
+    <link rel="alternate" type="text/html" href="https://www.sciencedirect.com/science/article/pii/S1571064525001757"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1016/j.plrev.2025.11.010"/>
+    <category term="Physics of Life Reviews" label="Physics of Life Reviews"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Hartl, B., Levin, M., Pio-Lopez, L (2026). &lt;strong&gt;Neural cellular automata: Applications to biology and beyond classical AI&lt;/strong&gt;. &lt;em&gt;Physics of Life Reviews&lt;/em&gt;, , 56(2026). DOI: &lt;a href=&quot;https://doi.org/10.1016/j.plrev.2025.11.010&quot;&gt;10.1016/j.plrev.2025.11.010&lt;/a&gt;. &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1571064525001757&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
     <id>tag:atom-feeds,2025:paper/8aa48c22</id>
     <title type="text">Chess as a Model of Collective Intelligence: Analyzing a Distributed Form of Chess with Piece-wise Agency</title>
     <published>2025-01-01T00:00:00Z</published>
@@ -131,19 +157,6 @@
     <category term="Interface Focus" label="Interface Focus"/>
     <category term="peer-reviewed" label="Peer-Reviewed"/>
     <summary type="html">Watson, R.A., Levin, M., Lewens, T (2025). &lt;strong&gt;Evolution by natural induction&lt;/strong&gt;. &lt;em&gt;Interface Focus&lt;/em&gt;, , 15(6). DOI: &lt;a href=&quot;https://doi.org/10.1098/rsfs.2025.0025&quot;&gt;10.1098/rsfs.2025.0025&lt;/a&gt;. &lt;a href=&quot;https://royalsocietypublishing.org/rsfs/article/15/6/20250025/366156/Evolution-by-natural-induction&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
-  </entry>
-
-  <entry>
-    <id>tag:atom-feeds,2025:paper/291a39cf</id>
-    <title type="text">Neural cellular automata: Applications to biology and beyond classical AI</title>
-    <published>2025-01-01T00:00:00Z</published>
-    <updated>2025-01-01T00:00:00Z</updated>
-    <author><name>Hartl, B., Levin, M., Pio-Lopez, L</name></author>
-    <link rel="alternate" type="text/html" href="https://authors.elsevier.com/c/1mEoa5bD-sxfGT"/>
-    <link rel="related" title="DOI" href="https://doi.org/10.1016/j.plrev.2025.11.010"/>
-    <category term="Physics of Life Reviews" label="Physics of Life Reviews"/>
-    <category term="peer-reviewed" label="Peer-Reviewed"/>
-    <summary type="html">Hartl, B., Levin, M., Pio-Lopez, L (2025). &lt;strong&gt;Neural cellular automata: Applications to biology and beyond classical AI&lt;/strong&gt;. &lt;em&gt;Physics of Life Reviews&lt;/em&gt;, , 56(2026). DOI: &lt;a href=&quot;https://doi.org/10.1016/j.plrev.2025.11.010&quot;&gt;10.1016/j.plrev.2025.11.010&lt;/a&gt;. &lt;a href=&quot;https://authors.elsevier.com/c/1mEoa5bD-sxfGT&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
   </entry>
 
   <entry>
