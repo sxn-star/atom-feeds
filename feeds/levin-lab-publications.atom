@@ -7,7 +7,7 @@
   <link href="https://www.drmichaellevin.org/publications/" rel="alternate" type="text/html"/>
   <link href="https://raw.githubusercontent.com/sxn-star/atom-feeds/main/feeds/levin-lab-publications.atom"
         rel="self" type="application/atom+xml"/>
-  <updated>2026-07-07T09:40:51Z</updated>
+  <updated>2026-07-08T08:27:47Z</updated>
   <id>https://www.drmichaellevin.org/publications/</id>
   <rights>(c) The Levin Lab. All rights reserved.</rights>
   <generator>atom-feeds scraper</generator>
@@ -15,6 +15,71 @@
     <name>Michael Levin</name>
     <uri>https://www.drmichaellevin.org/</uri>
   </author>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/84ba2e78</id>
+    <title type="text">What Lives? A meta-analysis of diverse opinions on the definition of life</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Bender, R., Kofman, K. Aguera y Arcas, B., Levin, M</name></author>
+    <link rel="alternate" type="text/html" href="https://link.springer.com/article/10.1007/s13752-026-00544-9"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1007/s13752-026-00544-9"/>
+    <category term="Biological Theory" label="Biological Theory"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Bender, R., Kofman, K. Aguera y Arcas, B., Levin, M (2026). &lt;strong&gt;What Lives? A meta-analysis of diverse opinions on the definition of life&lt;/strong&gt;. &lt;em&gt;Biological Theory&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1007/s13752-026-00544-9&quot;&gt;10.1007/s13752-026-00544-9&lt;/a&gt;. &lt;a href=&quot;https://link.springer.com/article/10.1007/s13752-026-00544-9&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/40972314</id>
+    <title type="text">MEB: “From Development to Cognitive Glue: My Journey in Bioelectricity”</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Levin, M</name></author>
+    <link rel="alternate" type="text/html" href="https://journals.sagepub.com/doi/10.1177/25763113261454327"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1177/25763113261454327"/>
+    <category term="Bioelectricity" label="Bioelectricity"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Levin, M (2026). &lt;strong&gt;MEB: “From Development to Cognitive Glue: My Journey in Bioelectricity”&lt;/strong&gt;. &lt;em&gt;Bioelectricity&lt;/em&gt;, ” . Bioelectricity , 8(2). DOI: &lt;a href=&quot;https://doi.org/10.1177/25763113261454327&quot;&gt;10.1177/25763113261454327&lt;/a&gt;. &lt;a href=&quot;https://journals.sagepub.com/doi/10.1177/25763113261454327&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/00f282fc</id>
+    <title type="text">Cognitive glues are shared models of relative scarcities: the economics of collective intelligence</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Levin, M., Lyons, B</name></author>
+    <link rel="alternate" type="text/html" href="https://royalsocietypublishing.org/rsta/article/384/2320/20240528/481688/Cognitive-glues-are-shared-models-of-relative"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1098/rsta.2024.0528"/>
+    <category term="Philosophical Transactions A, Math Phys Eng Sci" label="Philosophical Transactions A, Math Phys Eng Sci"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Levin, M., Lyons, B (2026). &lt;strong&gt;Cognitive glues are shared models of relative scarcities: the economics of collective intelligence&lt;/strong&gt;. &lt;em&gt;Philosophical Transactions A, Math Phys Eng Sci&lt;/em&gt;, , 384(2320). DOI: &lt;a href=&quot;https://doi.org/10.1098/rsta.2024.0528&quot;&gt;10.1098/rsta.2024.0528&lt;/a&gt;. &lt;a href=&quot;https://royalsocietypublishing.org/rsta/article/384/2320/20240528/481688/Cognitive-glues-are-shared-models-of-relative&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/f3fcaba1</id>
+    <title type="text">Brains and where else? Mapping theories of consciousness to unconventional embodiments</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Rouleau, N., Levin, M</name></author>
+    <link rel="alternate" type="text/html" href="https://royalsocietypublishing.org/rsta/article/384/2320/20250082/481686/Brains-and-where-else-Mapping-theories-of"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1098/rsta.2025.0082"/>
+    <category term="Philosophical Transactions A, Math Phys Eng Sci" label="Philosophical Transactions A, Math Phys Eng Sci"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Rouleau, N., Levin, M (2026). &lt;strong&gt;Brains and where else? Mapping theories of consciousness to unconventional embodiments&lt;/strong&gt;. &lt;em&gt;Philosophical Transactions A, Math Phys Eng Sci&lt;/em&gt;, , 384(2320). DOI: &lt;a href=&quot;https://doi.org/10.1098/rsta.2025.0082&quot;&gt;10.1098/rsta.2025.0082&lt;/a&gt;. &lt;a href=&quot;https://royalsocietypublishing.org/rsta/article/384/2320/20250082/481686/Brains-and-where-else-Mapping-theories-of&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/c34b4db1</id>
+    <title type="text">Topological constraints on self-organization in locally interacting systems</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Sacco, F.,  Sakthivadivel, D., Levin, M</name></author>
+    <link rel="alternate" type="text/html" href="https://royalsocietypublishing.org/rsta/article/384/2320/20250011/481703/Topological-constraints-on-self-organization-in"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1098/rsta.2025.0011"/>
+    <category term="Philosophical Transactions A, Math Phys Eng Sci" label="Philosophical Transactions A, Math Phys Eng Sci"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Sacco, F.,  Sakthivadivel, D., Levin, M (2026). &lt;strong&gt;Topological constraints on self-organization in locally interacting systems&lt;/strong&gt;. &lt;em&gt;Philosophical Transactions A, Math Phys Eng Sci&lt;/em&gt;, , 384(2320). DOI: &lt;a href=&quot;https://doi.org/10.1098/rsta.2025.0011&quot;&gt;10.1098/rsta.2025.0011&lt;/a&gt;. &lt;a href=&quot;https://royalsocietypublishing.org/rsta/article/384/2320/20250011/481703/Topological-constraints-on-self-organization-in&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
 
   <entry>
     <id>tag:atom-feeds,2026:paper/0f50ee4f</id>
