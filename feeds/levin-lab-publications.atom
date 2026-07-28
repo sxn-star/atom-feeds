@@ -7,7 +7,7 @@
   <link href="https://www.drmichaellevin.org/publications/" rel="alternate" type="text/html"/>
   <link href="https://raw.githubusercontent.com/sxn-star/atom-feeds/main/feeds/levin-lab-publications.atom"
         rel="self" type="application/atom+xml"/>
-  <updated>2026-07-27T09:51:46Z</updated>
+  <updated>2026-07-28T08:33:07Z</updated>
   <id>https://www.drmichaellevin.org/publications/</id>
   <rights>(c) The Levin Lab. All rights reserved.</rights>
   <generator>atom-feeds scraper</generator>
@@ -15,6 +15,19 @@
     <name>Michael Levin</name>
     <uri>https://www.drmichaellevin.org/</uri>
   </author>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/f97e5f28</id>
+    <title type="text">Defining Life: A Conversation</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Kofman, K., Adami, C., Baluška, F., Bongard, J., Brash, D., Calvo, P., Dodig-Crnkovic, G., Das, P., Fields, C., Froese, T., Gentili, P.L., Georgiev, G., Gilbert, S.F., Jackson, T., Kauffman, S., Lane, N., Marshall, P., McShea, D., Miller, W., Newman, S., Nunn, A., Pavlic, T.P., Picard, M., Ratcliff, W., Reber, A., Shapiro, J., Sloman, A., Solé, R., Sonnenschein, C., Stepney, S., Watson, R., Witkowski, O., Levin, M</name></author>
+    <link rel="alternate" type="text/html" href="https://rosa.uniroma1.it/rosa04/organisms/article/view/19492/17451"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.13133/2532-5876/19492"/>
+    <category term="Organisms. Journal of Biological Sciences" label="Organisms. Journal of Biological Sciences"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Kofman, K., Adami, C., Baluška, F., Bongard, J., Brash, D., Calvo, P., Dodig-Crnkovic, G., Das, P., Fields, C., Froese, T., Gentili, P.L., Georgiev, G., Gilbert, S.F., Jackson, T., Kauffman, S., Lane, N., Marshall, P., McShea, D., Miller, W., Newman, S., Nunn, A., Pavlic, T.P., Picard, M., Ratcliff, W., Reber, A., Shapiro, J., Sloman, A., Solé, R., Sonnenschein, C., Stepney, S., Watson, R., Witkowski, O., Levin, M (2026). &lt;strong&gt;Defining Life: A Conversation&lt;/strong&gt;. &lt;em&gt;Organisms. Journal of Biological Sciences&lt;/em&gt;, , 9(1). DOI: &lt;a href=&quot;https://doi.org/10.13133/2532-5876/19492&quot;&gt;10.13133/2532-5876/19492&lt;/a&gt;. &lt;a href=&quot;https://rosa.uniroma1.it/rosa04/organisms/article/view/19492/17451&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
 
   <entry>
     <id>tag:atom-feeds,2026:paper/84ba2e78</id>
