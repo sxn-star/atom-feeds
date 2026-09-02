@@ -7,7 +7,7 @@
   <link href="https://www.drmichaellevin.org/publications/" rel="alternate" type="text/html"/>
   <link href="https://raw.githubusercontent.com/sxn-star/atom-feeds/main/feeds/levin-lab-publications.atom"
         rel="self" type="application/atom+xml"/>
-  <updated>2026-09-01T11:10:52Z</updated>
+  <updated>2026-09-02T10:43:35Z</updated>
   <id>https://www.drmichaellevin.org/publications/</id>
   <rights>(c) The Levin Lab. All rights reserved.</rights>
   <generator>atom-feeds scraper</generator>
@@ -300,6 +300,18 @@
     <category term="Cell Reports Physical Science" label="Cell Reports Physical Science"/>
     <category term="peer-reviewed" label="Peer-Reviewed"/>
     <summary type="html">Manicka, S., Levin, M (2025). &lt;strong&gt;Field-mediated bioelectric basis of morphogenetic prepatterning&lt;/strong&gt;. &lt;em&gt;Cell Reports Physical Science&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1016/j.xcrp.2025.102865&quot;&gt;10.1016/j.xcrp.2025.102865&lt;/a&gt;. &lt;a href=&quot;https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00464-3&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2025:paper/85db6381</id>
+    <title type="text">Aging as a Loss of Goal-Directedness: An Evolutionary Simulation and Analysis Unifying Regeneration with Anatomical Rejuvenation</title>
+    <published>2025-01-01T00:00:00Z</published>
+    <updated>2025-01-01T00:00:00Z</updated>
+    <author><name>Pio-Lopez, L., Hartl, B., Levin, M</name></author>
+    <link rel="alternate" type="text/html" href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202509872"/>
+    <category term="Advanced Science" label="Advanced Science"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Pio-Lopez, L., Hartl, B., Levin, M (2025). &lt;strong&gt;Aging as a Loss of Goal-Directedness: An Evolutionary Simulation and Analysis Unifying Regeneration with Anatomical Rejuvenation&lt;/strong&gt;. &lt;em&gt;Advanced Science&lt;/em&gt;, , 12(46). &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202509872&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
   </entry>
 
   <entry>
