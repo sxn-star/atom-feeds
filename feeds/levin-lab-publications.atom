@@ -7,7 +7,7 @@
   <link href="https://www.drmichaellevin.org/publications/" rel="alternate" type="text/html"/>
   <link href="https://raw.githubusercontent.com/sxn-star/atom-feeds/main/feeds/levin-lab-publications.atom"
         rel="self" type="application/atom+xml"/>
-  <updated>2026-09-09T10:49:53Z</updated>
+  <updated>2026-09-10T10:42:56Z</updated>
   <id>https://www.drmichaellevin.org/publications/</id>
   <rights>(c) The Levin Lab. All rights reserved.</rights>
   <generator>atom-feeds scraper</generator>
@@ -15,6 +15,97 @@
     <name>Michael Levin</name>
     <uri>https://www.drmichaellevin.org/</uri>
   </author>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/102154c3</id>
+    <title type="text">Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Levin, M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.mdpi.com/2409-9287/11/5/161"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.3390/philosophies11050161"/>
+    <category term="Philosophies" label="Philosophies"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Levin, M (2026). &lt;strong&gt;Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments&lt;/strong&gt;. &lt;em&gt;Philosophies&lt;/em&gt;, , 11(5). DOI: &lt;a href=&quot;https://doi.org/10.3390/philosophies11050161&quot;&gt;10.3390/philosophies11050161&lt;/a&gt;. &lt;a href=&quot;https://www.mdpi.com/2409-9287/11/5/161&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/f39e55d2</id>
+    <title type="text">Remapping and navigation of an embedding space via error minimization: A fundamental organizational principle of cognition in natural and artificial systems</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Hartl, B., Pio-Lopez, L., Fields, C., Levin, M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.sciencedirect.com/science/article/pii/S1571064526000527?via%3Dihub"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1016/j.plrev.2026.06.009"/>
+    <category term="Physics of Life Reviews" label="Physics of Life Reviews"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Hartl, B., Pio-Lopez, L., Fields, C., Levin, M (2026). &lt;strong&gt;Remapping and navigation of an embedding space via error minimization: A fundamental organizational principle of cognition in natural and artificial systems&lt;/strong&gt;. &lt;em&gt;Physics of Life Reviews&lt;/em&gt;, , 58. DOI: &lt;a href=&quot;https://doi.org/10.1016/j.plrev.2026.06.009&quot;&gt;10.1016/j.plrev.2026.06.009&lt;/a&gt;. &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1571064526000527?via%3Dihub&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/0f9734ba</id>
+    <title type="text">BraiNCA: brain-inspired neural cellular automata and applications to morphogenesis and motor control</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Pio-Lopez, L., Hartl, B., Levin, M</name></author>
+    <link rel="alternate" type="text/html" href="https://direct.mit.edu/isal/proceedings/isal2026/38/107/138160"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1162/ISAL.a.1033"/>
+    <category term="Artificial Life Conference Proceedings" label="Artificial Life Conference Proceedings"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Pio-Lopez, L., Hartl, B., Levin, M (2026). &lt;strong&gt;BraiNCA: brain-inspired neural cellular automata and applications to morphogenesis and motor control&lt;/strong&gt;. &lt;em&gt;Artificial Life Conference Proceedings&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1162/ISAL.a.1033&quot;&gt;10.1162/ISAL.a.1033&lt;/a&gt;. &lt;a href=&quot;https://direct.mit.edu/isal/proceedings/isal2026/38/107/138160&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/f276e2cd</id>
+    <title type="text">The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Cvjetko, M., Hartl, B., Levin, M., Moulin-Frier, C., Oudeyer, P</name></author>
+    <link rel="alternate" type="text/html" href="https://direct.mit.edu/isal/proceedings/isal2026/38/45/138193"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1162/ISAL.a.971"/>
+    <category term="Artificial Life Conference Proceedings" label="Artificial Life Conference Proceedings"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Cvjetko, M., Hartl, B., Levin, M., Moulin-Frier, C., Oudeyer, P (2026). &lt;strong&gt;The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning&lt;/strong&gt;. &lt;em&gt;Artificial Life Conference Proceedings&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1162/ISAL.a.971&quot;&gt;10.1162/ISAL.a.971&lt;/a&gt;. &lt;a href=&quot;https://direct.mit.edu/isal/proceedings/isal2026/38/45/138193&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/4533a879</id>
+    <title type="text">Agnosiophobia in a virtual agent: behavior and dynamical architecture in Lenia</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Cool, J., Hartl, B., Levin, M., Petti, S</name></author>
+    <link rel="alternate" type="text/html" href="https://direct.mit.edu/isal/proceedings/isal2026/38/107/138163"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1162/ISAL.a.1012"/>
+    <category term="Artificial Life Conference Proceedings" label="Artificial Life Conference Proceedings"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Cool, J., Hartl, B., Levin, M., Petti, S (2026). &lt;strong&gt;Agnosiophobia in a virtual agent: behavior and dynamical architecture in Lenia&lt;/strong&gt;. &lt;em&gt;Artificial Life Conference Proceedings&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1162/ISAL.a.1012&quot;&gt;10.1162/ISAL.a.1012&lt;/a&gt;. &lt;a href=&quot;https://direct.mit.edu/isal/proceedings/isal2026/38/107/138163&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/24b570a9</id>
+    <title type="text">Lifetime imaging reveals long-distance non-neural bioelectric patterns on timescales from seconds to hours</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>McMillen, P., Levin, M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.sciencedirect.com/science/article/pii/S0012160626001661"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1016/j.ydbio.2026.08.001"/>
+    <category term="Developmental Biology" label="Developmental Biology"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">McMillen, P., Levin, M (2026). &lt;strong&gt;Lifetime imaging reveals long-distance non-neural bioelectric patterns on timescales from seconds to hours&lt;/strong&gt;. &lt;em&gt;Developmental Biology&lt;/em&gt;, , 539. DOI: &lt;a href=&quot;https://doi.org/10.1016/j.ydbio.2026.08.001&quot;&gt;10.1016/j.ydbio.2026.08.001&lt;/a&gt;. &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0012160626001661&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/fc6c577e</id>
+    <title type="text">Bioelectrical regionalization of multicellular aggregates by microRNAs</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Egea-Carro, J., Mafe, S., Levin, M., Cervera, J</name></author>
+    <link rel="alternate" type="text/html" href="https://pubs.aip.org/aip/jcp/article/165/5/055102/3400410/Bioelectrical-regionalization-of-multicellular"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1063/5.0345058"/>
+    <category term="The Journal of Chemical Physics" label="The Journal of Chemical Physics"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Egea-Carro, J., Mafe, S., Levin, M., Cervera, J (2026). &lt;strong&gt;Bioelectrical regionalization of multicellular aggregates by microRNAs&lt;/strong&gt;. &lt;em&gt;The Journal of Chemical Physics&lt;/em&gt;, , 165(5). DOI: &lt;a href=&quot;https://doi.org/10.1063/5.0345058&quot;&gt;10.1063/5.0345058&lt;/a&gt;. &lt;a href=&quot;https://pubs.aip.org/aip/jcp/article/165/5/055102/3400410/Bioelectrical-regionalization-of-multicellular&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
 
   <entry>
     <id>tag:atom-feeds,2026:paper/f97e5f28</id>
@@ -40,6 +131,19 @@
     <category term="Biological Theory" label="Biological Theory"/>
     <category term="peer-reviewed" label="Peer-Reviewed"/>
     <summary type="html">Bender, R., Kofman, K. Aguera y Arcas, B., Levin, M (2026). &lt;strong&gt;What Lives? A meta-analysis of diverse opinions on the definition of life&lt;/strong&gt;. &lt;em&gt;Biological Theory&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1007/s13752-026-00544-9&quot;&gt;10.1007/s13752-026-00544-9&lt;/a&gt;. &lt;a href=&quot;https://link.springer.com/article/10.1007/s13752-026-00544-9&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/cd04d49d</id>
+    <title type="text">&quot;Diverse Intelligences—The Space of Possible Minds: Commentary&quot;</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Levin, M</name></author>
+    <link rel="alternate" type="text/html" href="https://direct.mit.edu/books/oa-edited-volume/6163/chapter/6172065/Diverse-Intelligences-The-Space-of-Possible-Minds"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.7551/mitpress/15999.001.0001"/>
+    <category term="Embodied Intelligence: Multidisciplinary Perspectives on Natural, Artificial, and Hybrid Systems" label="Embodied Intelligence: Multidisciplinary Perspectives on Natural, Artificial, and Hybrid Systems"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Levin, M (2026). &lt;strong&gt;&quot;Diverse Intelligences—The Space of Possible Minds: Commentary&quot;&lt;/strong&gt;. &lt;em&gt;Embodied Intelligence: Multidisciplinary Perspectives on Natural, Artificial, and Hybrid Systems&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.7551/mitpress/15999.001.0001&quot;&gt;10.7551/mitpress/15999.001.0001&lt;/a&gt;. &lt;a href=&quot;https://direct.mit.edu/books/oa-edited-volume/6163/chapter/6172065/Diverse-Intelligences-The-Space-of-Possible-Minds&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
   </entry>
 
   <entry>
