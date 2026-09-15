@@ -7,7 +7,7 @@
   <link href="https://www.drmichaellevin.org/publications/" rel="alternate" type="text/html"/>
   <link href="https://raw.githubusercontent.com/sxn-star/atom-feeds/main/feeds/levin-lab-publications.atom"
         rel="self" type="application/atom+xml"/>
-  <updated>2026-09-14T11:55:31Z</updated>
+  <updated>2026-09-15T11:10:55Z</updated>
   <id>https://www.drmichaellevin.org/publications/</id>
   <rights>(c) The Levin Lab. All rights reserved.</rights>
   <generator>atom-feeds scraper</generator>
@@ -541,10 +541,10 @@
     <updated>2025-01-01T00:00:00Z</updated>
     <author><name>Kofman, K., Levin, M</name></author>
     <link rel="alternate" type="text/html" href="https://www.ingentaconnect.com/content/imp/mm/2025/00000023/00000001/art00003"/>
-    <link rel="related" title="DOI" href="https://doi.org/10.5376/mm2025.13"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.53765/mm2025.13"/>
     <category term="Mind and Matter" label="Mind and Matter"/>
     <category term="peer-reviewed" label="Peer-Reviewed"/>
-    <summary type="html">Kofman, K., Levin, M (2025). &lt;strong&gt;Cases of Unconventional Information Flow Across the Mind-Body Interface&lt;/strong&gt;. &lt;em&gt;Mind and Matter&lt;/em&gt;, , 23(1). DOI: &lt;a href=&quot;https://doi.org/10.5376/mm2025.13&quot;&gt;10.5376/mm2025.13&lt;/a&gt;. &lt;a href=&quot;https://www.ingentaconnect.com/content/imp/mm/2025/00000023/00000001/art00003&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+    <summary type="html">Kofman, K., Levin, M (2025). &lt;strong&gt;Cases of Unconventional Information Flow Across the Mind-Body Interface&lt;/strong&gt;. &lt;em&gt;Mind and Matter&lt;/em&gt;, , 23(1). DOI: &lt;a href=&quot;https://doi.org/10.53765/mm2025.13&quot;&gt;10.53765/mm2025.13&lt;/a&gt;. &lt;a href=&quot;https://www.ingentaconnect.com/content/imp/mm/2025/00000023/00000001/art00003&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
   </entry>
 
   <entry>
@@ -882,6 +882,19 @@
     <category term="Biochemical and Biophysical Reasearch Communications" label="Biochemical and Biophysical Reasearch Communications"/>
     <category term="peer-reviewed" label="Peer-Reviewed"/>
     <summary type="html">Shreesha, L., Levin, M. (2024) (2024). &lt;strong&gt;Stress Sharing as Cognitive Glue for Collective Intelligences: a computational model of stress as a coordinator for morphogenesis&lt;/strong&gt;. &lt;em&gt;Biochemical and Biophysical Reasearch Communications&lt;/em&gt;, , 731. DOI: &lt;a href=&quot;https://doi.org/10.1016/j.bbrc.2024.150396&quot;&gt;10.1016/j.bbrc.2024.150396&lt;/a&gt;. &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0006291X2400932X&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2024:paper/8eb8e885</id>
+    <title type="text">Bioelectric pharmacology of cancer: A systematic review of ion channel drugs affecting the cancer phenotype</title>
+    <published>2024-01-01T00:00:00Z</published>
+    <updated>2024-01-01T00:00:00Z</updated>
+    <author><name>Kofman K., Levin, M. (2024)</name></author>
+    <link rel="alternate" type="text/html" href="https://www.sciencedirect.com/science/article/pii/S0079610724000622?via%3Dihub#ack0010"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1016/j.pbiomolbio.2024.07.005"/>
+    <category term="Progress in Biophysics and Molecular Biology" label="Progress in Biophysics and Molecular Biology"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Kofman K., Levin, M. (2024) (2024). &lt;strong&gt;Bioelectric pharmacology of cancer: A systematic review of ion channel drugs affecting the cancer phenotype&lt;/strong&gt;. &lt;em&gt;Progress in Biophysics and Molecular Biology&lt;/em&gt;, , 191. DOI: &lt;a href=&quot;https://doi.org/10.1016/j.pbiomolbio.2024.07.005&quot;&gt;10.1016/j.pbiomolbio.2024.07.005&lt;/a&gt;. &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0079610724000622?via%3Dihub#ack0010&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
   </entry>
 
   <entry>
