@@ -7,7 +7,7 @@
   <link href="https://www.drmichaellevin.org/publications/" rel="alternate" type="text/html"/>
   <link href="https://raw.githubusercontent.com/sxn-star/atom-feeds/main/feeds/levin-lab-publications.atom"
         rel="self" type="application/atom+xml"/>
-  <updated>2026-11-02T14:51:53Z</updated>
+  <updated>2026-11-03T13:41:40Z</updated>
   <id>https://www.drmichaellevin.org/publications/</id>
   <rights>(c) The Levin Lab. All rights reserved.</rights>
   <generator>atom-feeds scraper</generator>
@@ -15,6 +15,32 @@
     <name>Michael Levin</name>
     <uri>https://www.drmichaellevin.org/</uri>
   </author>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/a6b09739</id>
+    <title type="text">Reservoir Computing for Pattern Recognition and Time-Series Prediction Based on Nanofluidic Negative Differential Resistance</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Portillo, S., Ramirez, P., Levin, M., Siwy, Z. S., Mafe, S., Cervera, J</name></author>
+    <link rel="alternate" type="text/html" href="https://onlinelibrary.wiley.com/doi/10.1155/int/4602147"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1155/int/4602147"/>
+    <category term="International Journal of Intelligent Systems" label="International Journal of Intelligent Systems"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Portillo, S., Ramirez, P., Levin, M., Siwy, Z. S., Mafe, S., Cervera, J (2026). &lt;strong&gt;Reservoir Computing for Pattern Recognition and Time-Series Prediction Based on Nanofluidic Negative Differential Resistance&lt;/strong&gt;. &lt;em&gt;International Journal of Intelligent Systems&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1155/int/4602147&quot;&gt;10.1155/int/4602147&lt;/a&gt;. &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1155/int/4602147&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/9775280d</id>
+    <title type="text">Diverse intelligence: An essential field for questions of AI and consciousness</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Levin, M</name></author>
+    <link rel="alternate" type="text/html" href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/diverse-intelligence-an-essential-field-for-questions-of-ai-and-consciousness/5D335CB2EE96EE99AD3E49413FAB7B40"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1017/S0140525X25103828"/>
+    <category term="Behavioral and Brain Sciences" label="Behavioral and Brain Sciences"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Levin, M (2026). &lt;strong&gt;Diverse intelligence: An essential field for questions of AI and consciousness&lt;/strong&gt;. &lt;em&gt;Behavioral and Brain Sciences&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1017/S0140525X25103828&quot;&gt;10.1017/S0140525X25103828&lt;/a&gt;. &lt;a href=&quot;https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/diverse-intelligence-an-essential-field-for-questions-of-ai-and-consciousness/5D335CB2EE96EE99AD3E49413FAB7B40&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
 
   <entry>
     <id>tag:atom-feeds,2026:paper/102154c3</id>
