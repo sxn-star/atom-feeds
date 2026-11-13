@@ -7,7 +7,7 @@
   <link href="https://www.drmichaellevin.org/publications/" rel="alternate" type="text/html"/>
   <link href="https://raw.githubusercontent.com/sxn-star/atom-feeds/main/feeds/levin-lab-publications.atom"
         rel="self" type="application/atom+xml"/>
-  <updated>2026-11-12T14:42:05Z</updated>
+  <updated>2026-11-13T13:58:55Z</updated>
   <id>https://www.drmichaellevin.org/publications/</id>
   <rights>(c) The Levin Lab. All rights reserved.</rights>
   <generator>atom-feeds scraper</generator>
@@ -66,6 +66,19 @@
     <category term="Physics of Life Reviews" label="Physics of Life Reviews"/>
     <category term="peer-reviewed" label="Peer-Reviewed"/>
     <summary type="html">Hartl, B., Pio-Lopez, L., Fields, C., Levin, M (2026). &lt;strong&gt;Remapping and navigation of an embedding space via error minimization: A fundamental organizational principle of cognition in natural and artificial systems&lt;/strong&gt;. &lt;em&gt;Physics of Life Reviews&lt;/em&gt;, , 58. DOI: &lt;a href=&quot;https://doi.org/10.1016/j.plrev.2026.06.009&quot;&gt;10.1016/j.plrev.2026.06.009&lt;/a&gt;. &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1571064526000527?via%3Dihub&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
+  </entry>
+
+  <entry>
+    <id>tag:atom-feeds,2026:paper/dd79ceae</id>
+    <title type="text">The Informationally Integrated Alignment Hypothesis: Integrated Information Aligns with and Predicts Final Reward in Reinforcement Learning Agents</title>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <author><name>Pigozzi, F., Levin, M</name></author>
+    <link rel="alternate" type="text/html" href="https://direct.mit.edu/isal/proceedings/isal2026/38/122/138214"/>
+    <link rel="related" title="DOI" href="https://doi.org/10.1162/ISAL.a.1048"/>
+    <category term="Artificial Life Conference Proceedings" label="Artificial Life Conference Proceedings"/>
+    <category term="peer-reviewed" label="Peer-Reviewed"/>
+    <summary type="html">Pigozzi, F., Levin, M (2026). &lt;strong&gt;The Informationally Integrated Alignment Hypothesis: Integrated Information Aligns with and Predicts Final Reward in Reinforcement Learning Agents&lt;/strong&gt;. &lt;em&gt;Artificial Life Conference Proceedings&lt;/em&gt;. DOI: &lt;a href=&quot;https://doi.org/10.1162/ISAL.a.1048&quot;&gt;10.1162/ISAL.a.1048&lt;/a&gt;. &lt;a href=&quot;https://direct.mit.edu/isal/proceedings/isal2026/38/122/138214&quot;&gt;Access paper &rarr;&lt;/a&gt;</summary>
   </entry>
 
   <entry>
